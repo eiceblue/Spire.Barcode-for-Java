@@ -16,48 +16,50 @@ Easy Integration
 Spire.Barcode for JAVA can be easily integrated into Java applications (J2SE and J2EE). 
 
 Supports rich Barcode type, more than 38 different barcodes.
-
-CODE_25
-CODABAR
-CODE_11
-INTERLEAVED_25
-CODE_39
-CODE_39_EXTENDED
-CODE_93
-CODE_93_EXTENDED
-CODE_128
-EAN_8
-EAN_13
-EAN_128
-EAN_14
-SCC_14
-SSCC_18
-ITF_14
-ITF_6
-UPCA
-UPCE
-POST_NET
-SINGAPORE_POST_4_STATE
-PLANET
-MSI
-RSS_14
-RSS_14_TRUNCATED
-RSS_LIMITED
-RSS_EXPANDED
-USPS
-SWISS_POST_PARCEL
-PZN
-OPC
-DEUTSCHE_POST_IDENTCODE
-DEUTSCHE_POST_LEITCODE
-ROYAL_MAIL_4_STATE
-DATA_MATRIX
-QR_CODE
-PDF_417
-PDF_417_MACRO
-Website: https://www.e-iceblue.com
-Introduction: https://www.e-iceblue.com/Introduce/barcode-for-java.html
-Download: https://www.e-iceblue.com/Download/barcode-for-java.html
+<ul>
+ 
+<li>CODE_25</li>
+<li>CODABAR</li>
+<li>CODE_11</li>
+<li>INTERLEAVED_25</li>
+<li>CODE_39</li>
+<li>CODE_39_EXTENDED</li>
+<li>CODE_93</li>
+<li>CODE_93_EXTENDED</li>
+<li>CODE_128</li>
+<li>EAN_8</li>
+<li>EAN_13</li>
+<li>EAN_128</li>
+<li>EAN_14</li>
+<li>SCC_14</li>
+<li>SSCC_18</li>
+<li>ITF_14</li>
+<li>ITF_6</li>
+<li>UPCA</li>
+<li>UPCE</li>
+<li>POST_NET</li>
+<li>SINGAPORE_POST_4_STATE</li>
+<li>PLANET</li>
+<li>MSI</li>
+<li>RSS_14</li>
+<li>RSS_14_TRUNCATED</li>
+<li>RSS_LIMITED</li>
+<li>RSS_EXPANDED</li>
+<li>USPS</li>
+<li>SWISS_POST_PARCEL</li>
+<li>PZN</li>
+<li>OPC</li>
+<li>DEUTSCHE_POST_IDENTCODE</li>
+<li>DEUTSCHE_POST_LEITCODE</li>
+<li>ROYAL_MAIL_4_STATE</li>
+<li>DATA_MATRIX</li>
+<li>QR_CODE</li>
+<li>PDF_417</li>
+<li>PDF_417_MACRO</li>
+</ul>
+Main Site: https://www.e-iceblue.com<br>
+Introduction: https://www.e-iceblue.com/Introduce/barcode-for-java.html<br>
+Download: https://www.e-iceblue.com/Download/barcode-for-java.html<br>
 
 
 
