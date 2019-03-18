@@ -1,5 +1,6 @@
 # Spire.Barcode-for-Java
-Spire.Barcode for Java is a professional barcode component specially designed for developers to generate, read and scan 1D &amp; 2D barcodes on Java applications (J2SE and J2EE).
+
+<b><a href=https://www.e-iceblue.com/Introduce/barcode-for-java.html>Spire.Barcode for Java</a></b> is a professional barcode component specially designed for developers to generate, read and scan 1D &amp; 2D barcodes on Java applications (J2SE and J2EE).
 Spire.Barcode for JAVA is a professional barcode component specially designed for developers to generate, read and scan 1D & 2D barcodes on Java applications (J2SE and J2EE). Developers and programmers can use Spire.Barcode to add Enterprise-Level barcode formats to their JAVA applications quickly and easily.
 Spire.Barcode for JAVA provides a very easy way to integrate barcode processing. With just one line of code to create and read 1D & 2D barcode. Spire.Barcode supports various common image formats, such as Bitmap, JPG, PNG, EMF, TIFF, GIF and WMF.
 Main Functions
