@@ -1,5 +1,3 @@
-package com.spire.demo;
-
 import com.spire.barcode.BarCodeGenerator;
 import com.spire.barcode.BarCodeType;
 import com.spire.barcode.BarcodeSettings;
@@ -18,7 +16,7 @@ public class RSS_LIMITED {
         //Set Data
         settings.setData("0061414199999");
         //Set the Symbology property
-        settings.setType(BarCodeType.RSS_LIMITED);
+        settings.setType(BarCodeType.RSS_Limited);
         //Set ShowText location on bottom
         settings.setShowTextOnBottom(true);
         //Set Border is visible

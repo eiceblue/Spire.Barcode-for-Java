@@ -1,5 +1,3 @@
-package com.spire.demo;
-
 import com.spire.barcode.BarCodeGenerator;
 import com.spire.barcode.BarCodeType;
 import com.spire.barcode.BarcodeSettings;
@@ -18,7 +16,7 @@ public class DEUTSCHE_POST_IDENTCODE {
         //Set Data
         settings.setData("56400000005");
         //Set the Symbology property
-        settings.setType(BarCodeType.DEUTSCHE_POST_IDENTCODE);
+        settings.setType(BarCodeType.Deutsche_Post_Identcode);
         //Set ShowText location on bottom
         settings.setShowTextOnBottom(true);
         //Set Border is visible

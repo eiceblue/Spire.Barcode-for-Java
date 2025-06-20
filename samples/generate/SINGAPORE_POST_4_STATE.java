@@ -1,5 +1,3 @@
-package com.spire.demo;
-
 import com.spire.barcode.BarCodeGenerator;
 import com.spire.barcode.BarCodeType;
 import com.spire.barcode.BarcodeSettings;
@@ -18,7 +16,7 @@ public class SINGAPORE_POST_4_STATE {
         //Set Data
         settings.setData("529508");
         //Set the Symbology property
-        settings.setType(BarCodeType.SINGAPORE_POST_4_STATE);
+        settings.setType(BarCodeType.Singapore_Post_4_State);
         //Set ShowText location on bottom
         settings.setShowTextOnBottom(true);
         //Set Border is visible

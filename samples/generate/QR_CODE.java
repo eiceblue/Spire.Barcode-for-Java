@@ -1,5 +1,3 @@
-package com.spire.demo;
-
 import com.spire.barcode.BarCodeGenerator;
 import com.spire.barcode.BarCodeType;
 import com.spire.barcode.BarcodeSettings;
@@ -18,7 +16,7 @@ public class QR_CODE {
         //Set Data
         settings.setData("ABC 123456789");
         //Set the Symbology property
-        settings.setType(BarCodeType.QR_CODE);
+        settings.setType(BarCodeType.QR_Code);
         //Set ShowText location on bottom
         settings.setShowTextOnBottom(true);
         //Set Border is visible

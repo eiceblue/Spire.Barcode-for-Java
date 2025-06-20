@@ -1,5 +1,3 @@
-package com.spire.demo;
-
 import com.spire.barcode.BarCodeGenerator;
 import com.spire.barcode.BarCodeType;
 import com.spire.barcode.BarcodeSettings;
@@ -18,7 +16,7 @@ public class CODE_25 {
         //Set Data
         settings.setData("123456789");
         //Set the Symbology property
-        settings.setType(BarCodeType.CODE_25);
+        settings.setType(BarCodeType.Code_25);
         //Set ShowText location on bottom
         settings.setShowTextOnBottom(true);
         //Set Border is visible

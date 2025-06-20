@@ -1,5 +1,3 @@
-package com.spire.demo;
-
 import com.spire.barcode.BarCodeGenerator;
 import com.spire.barcode.BarCodeType;
 import com.spire.barcode.BarcodeSettings;
@@ -18,7 +16,7 @@ public class DATA_MATRIX {
         //Set Data
         settings.setData("ABC 123456789");
         //Set the Symbology property
-        settings.setType(BarCodeType.DATA_MATRIX);
+        settings.setType(BarCodeType.Data_Matrix);
         //Set Border is visible
         settings.hasBorder(true);
         //Set ShowText location on bottom

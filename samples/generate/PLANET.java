@@ -1,5 +1,3 @@
-package com.spire.demo;
-
 import com.spire.barcode.BarCodeGenerator;
 import com.spire.barcode.BarCodeType;
 import com.spire.barcode.BarcodeSettings;
@@ -18,7 +16,7 @@ public class PLANET {
         //Set Data
         settings.setData("4012345235636");
         //Set the Symbology property
-        settings.setType(BarCodeType.PLANET);
+        settings.setType(BarCodeType.Planet);
         //Set ShowText location on bottom
         settings.setShowTextOnBottom(true);
         //Set Border is visible

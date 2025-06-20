@@ -1,5 +1,3 @@
-package com.spire.demo;
-
 import com.spire.barcode.BarCodeGenerator;
 import com.spire.barcode.BarCodeType;
 import com.spire.barcode.BarcodeSettings;
@@ -18,7 +16,7 @@ public class POST_NET {
         //Set Data
         settings.setData("202609900");
         //Set the Symbology property
-        settings.setType(BarCodeType.POST_NET);
+        settings.setType(BarCodeType.Post_Net);
         //Set ShowText location on bottom
         settings.setShowTextOnBottom(true);
         //Set Border is visible

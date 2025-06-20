@@ -1,5 +1,3 @@
-package com.spire.demo;
-
 import com.spire.barcode.*;
 
 import javax.imageio.ImageIO;
@@ -15,7 +13,7 @@ public class CODABAR {
         //Set Data
         settings.setData("2030405060");
         //Set the Symbology property
-        settings.setType(BarCodeType.CODABAR);
+        settings.setType(BarCodeType.Codabar);
         //Set ShowText location on bottom
         settings.setShowTextOnBottom(true);
         //Set Border is visible

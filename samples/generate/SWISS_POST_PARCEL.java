@@ -1,5 +1,3 @@
-package com.spire.demo;
-
 import com.spire.barcode.BarCodeGenerator;
 import com.spire.barcode.BarCodeType;
 import com.spire.barcode.BarcodeSettings;
@@ -18,7 +16,7 @@ public class SWISS_POST_PARCEL {
         //Set Data
         settings.setData("993413796700168509");
         //Set the Symbology property
-        settings.setType(BarCodeType.SWISS_POST_PARCEL);
+        settings.setType(BarCodeType.Swiss_Post_Parcel);
         //Set ShowText location on bottom
         settings.setShowTextOnBottom(true);
         //Set Border is visible
